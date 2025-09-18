@@ -1,7 +1,7 @@
 CMPUT 301 Student Submission License
 Version 2.0
 
-Copyright 2025 `<student name>`
+Copyright 2025 `Gui Carius`
 
 Unauthorized redistribution is forbidden under all circumstances. Use of this
 software without explicit authorization from the author **and** the CMPUT 301
@@ -28,4 +28,4 @@ person finding it is kindly requested to immediately report, including
 the URL or other repository locating information, to the following email
 addresses:
 
-          hktang@ualberta.ca
+          carius@ualberta.ca
