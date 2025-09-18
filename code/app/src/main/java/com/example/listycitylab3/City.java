@@ -16,4 +16,12 @@ public class City {
     public String getProvince() {
         return province;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setProvince(String province) {
+        this.province = province;
+    }
 }
